@@ -2,7 +2,7 @@
 # base16-shell (https://github.com/base16-project/base16-shell)
 # Base16 Shell template by base16-project (https://github.com/base16-project)
 # Embers scheme by Jannik Siebert (https://github.com/janniks)
-export BASE16_THEME=zrabii
+export BASE16_THEME=forest
 
 color00="16/13/0f" # Base 00 - Black
 color01="82/6d/57" # Base 08 - Red
